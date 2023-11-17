@@ -36,4 +36,4 @@ where $k,P,q$ are integers chosen suitably in order to get a VFK lattice. We sup
 The ```paper``` directory contains the paper in pdf format.<br>
 The ```ntru``` directory contains two more direcories.<br>
 
-[^2]: sage svg file is from https://github.com/sagemath/artwork 
+[^1]:  Robby G. McKilliam, Alex Grant, and I. Vaughan L. Clarkson, _Finding a Closest Point in a Lattice of Voronoi's First Kind._ SIAM Journal on Discrete MathematicsVol. 28, Iss. 3 (2014)10.1137/140952806.
