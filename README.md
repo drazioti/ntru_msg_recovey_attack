@@ -4,6 +4,21 @@
 <img src="https://github.com/sagemath/artwork/blob/master/sage-logo-2018.svg" width="80" height="25"> 
 </p>
 
+## Authors
+
+* K. A. draziotis (drazioti@gmail.com)
+* Marios Adamoudis (marios.p7@hotmail.com )
+* Eirini Poimenidou
+
+credits: Some functions are from https://latticehacks.cr.yp.to/ntru.html
+
+## License
+
+This project is licensed under the GPLv2 License
+
+The images are provided with [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
+
+## Getting Started
 The code provided in this repository is written in ```Sagemath ver. 9.8```.<br>
 ```root-lattice-vfk.ipynb :``` contains minimal code for applying algorithm provided in [^1]. The authors provide a $O(n^4)$ deterministic algorithm for finding CVP to a VFK lattice (we need at most $n-$ iterations and in each iteration, we apply **min cut** to an undirected graph wth $n-$ vertices). We test our code to root lattices $A_n.$ However, there is a better algorithm for these type of lattices.<br>
 ```ntru-lattice-vfk.ipynb :``` We generate a VFK ntru type lattice. These type of lattices are of the form 
