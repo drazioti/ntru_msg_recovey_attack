@@ -20,49 +20,5 @@ where $k,P,q$ are integers chosen suitably in order to get a VFK lattice. We sup
 ```ntru-lattice-vfk.sage :``` is almost the same as the previous file.<br>
 The ```paper``` directory contains the paper in pdf format.<br>
 The ```ntru``` directory contains two more direcories.<br>
-```
-├── auxiliary_code
-│   └── find_max_k.sage
-├── bibliography
-│   ├── 2010Thesis.pdf
-│   ├── designe_KEM.pdf
-│   ├── HRSS.pdf
-│   ├── msc_adamoudis.pdf
-│   ├── ntru-20190330.pdf
-│   ├── ntru_adam_draz.pdf
-│   ├── ntru_adam_draz.pdf.xoj
-│   ├── vfk_6.pdf
-│   ├── VFK-CVP.pdf
-│   └── VFK_SVP.pdf
-├── experiments_ntru.ipynb
-├── generic-lattice-vfk.ipynb
-├── LICENSE
-├── ntru-hps
-│   ├── ntru-hps.ipynb
-│   └── ntru-lattice-vfk-cvp.ipynb
-├── ntru-prime
-│   ├── auxiliary.ipynb
-│   ├── ntru-lattice-vfk-cvp.ipynb
-│   ├── ntru-prime.ipynb
-│   └── readme.md
-├── README.md
-├── root-lattice-vfk.ipynb
-├── sage_code
-│   └── ntru-lattice-vfk-cvp.sage
-└── tex
-    ├── 005.pdf
-    ├── 005.tex
-    ├── 006.pdf
-    ├── 006.tex
-    ├── 007.pdf
-    ├── 007.tex
-    ├── 1.png
-    ├── 2.png
-    └── 3.png
-
-
-```
-
-[^1]:  Robby G. McKilliam, Alex Grant, and I. Vaughan L. Clarkson, _Finding a Closest Point in a Lattice of Voronoi's First Kind._ SIAM Journal on Discrete MathematicsVol. 28, Iss. 3 (2014)10.1137/140952806.
 
 [^2]: sage svg file is from https://github.com/sagemath/artwork 
