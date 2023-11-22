@@ -20,8 +20,8 @@ The images are provided with [CC BY 2.0](https://creativecommons.org/licenses/by
 ## Description
 
 In [^2] the authors provide a message recovery attack based on CVP. 
-The idea was to shift the CVP attack from its original setting of
-$[{\mathcal{L}}_{\bf h},{\bf t}=({\bf 0}_N,{\bf e})]$ to a different CVP instance  
+The idea was to shift the CVP attack from its original setting of $x_1$
+${\mathcal{L}}_{\bf{h}},$ ${\bf t}=({\bf 0}_{N},{\bf e})$ to a different CVP instance  
 $[{\mathcal{L}}_{{\bf{\alpha}}},{\bf t}'],$ where ${\bf{\alpha}}$ represents a polynomial 
 ${\alpha}(x)$ that we have the freedom to select. By suitably choosing certain polynomials
 ${\alpha}(x),$, the authors successfully executed message recovery attacks on NTRU-HPS. 
