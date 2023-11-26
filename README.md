@@ -11,6 +11,32 @@ In the present repository we provide code in order to support our paper,<br>
 <br>
 The code is given in SageMath ver. 9.8. Directory ```ntru-hps``` contains three files. One for the attack and the other two contain the CVP version for VFK lattices and the other some auxiliary functions. Similar for the directory ```ntru-prime```.
 
+Here is a description of the repository:<br>
+```
+├── auxiliary
+│   └── find_max_k_and_P.sage
+├── cvp-naive-attack
+│   └── clasic_cvp_attack_ntru.ipynb
+├── LICENSE
+├── ntru-hps
+│   ├── comparison_with_older_results
+│   ├── ntru-lattice-vfk-cvp.ipynb
+│   └── ntru-vfk-attack-hps.ipynb
+├── ntru-prime
+│   ├── auxiliary.ipynb
+│   ├── ntru-lattice-vfk-cvp.ipynb
+│   └── ntru-prime.ipynb
+├── README.md
+└── svp-vfk-experiments
+    └── svp-ntru-vfk.ipynb
+```
+
+In ```cvp-naive-attack``` we provide code for the classic cvp attack to ntru. We remark that this attack is not successful for N>50.<br>
+Directory ```ntru-hps``` contains code for the NTRUhps (foollowing the recomendations of the NIST's submission) and a comparison with a previous attack <br>
+Directory ``` ntru-prime``` as previous, but for NTRU-Prime.<br>
+```ntru-lattice-vfk-cvp.ipynb``` contains the implementation of a polynomial CVP exact algorithm for VFK.
+
+
 ## Authors
 
 * K. A. Draziotis (drazioti@gmail.com)
