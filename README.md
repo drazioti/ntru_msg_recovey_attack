@@ -31,10 +31,11 @@ Here is a description of the repository:<br>
     └── svp-ntru-vfk.ipynb
 ```
 
-In ```cvp-naive-attack``` we provide code for the classic cvp attack to ntru. We remark that this attack is not successful for N>50.<br>
-Directory ```ntru-hps``` contains code for the NTRUhps (foollowing the recomendations of the NIST's submission) and a comparison with a previous attack <br>
-Directory ``` ntru-prime``` as previous, but for NTRU-Prime.<br>
-```ntru-lattice-vfk-cvp.ipynb``` contains the implementation of a polynomial CVP exact algorithm for VFK.
+* In ```cvp-naive-attack``` we provide code for the classic cvp attack to ntru. We remark that this attack is not successful for N>50.<br>
+* Directory ```ntru-hps``` contains code for the NTRUhps (foollowing the recomendations of the NIST's submission) and a comparison with a previous attack <br>
+* Directory ``` ntru-prime``` as previous, but for NTRU-Prime.<br>
+* ```ntru-lattice-vfk-cvp.ipynb``` contains the implementation of a polynomial CVP exact algorithm for VFK lattices. <br>
+* ``` svp-ntru-vfk.ipynb``` contains sagemath code for a polynomial algorithm for SVP over VFK lattices.<br>
 
 
 ## Authors
