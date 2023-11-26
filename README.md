@@ -7,7 +7,7 @@
 ## Description
 
 In the present repository we provide code in order to support our paper,<br> 
-....
+E. Poimenidou, M. Adamoudis, K. Draziotis, K. Tsichlas, Message Recovery Attacks in NTRU through VFK Lattices
 <br>
 The code is given in SageMath ver. 9.8. Directory ```ntru-hps``` contains three files. One for the attack and the other two contain the CVP version for VFK lattices and the other some auxiliary functions. Similar for the directory ```ntru-prime```.
 
