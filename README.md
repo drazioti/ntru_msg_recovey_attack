@@ -13,7 +13,7 @@ The code is given in SageMath ver. 9.8. Directory ```ntru-hps``` contains three 
 
 ## Authors
 
-* K. A. draziotis (drazioti@gmail.com)
+* K. A. Draziotis (drazioti@gmail.com)
 * Marios Adamoudis (marios.p7@hotmail.com )
 * Eirini Poimenidou
 
