@@ -1,4 +1,4 @@
-# NTRU message recovery attack
+# NTRU message recovery attack based on VFK lattices
 <p float="left">
 <img src="https://img.shields.io/badge/license-GPLv2-lightgrey.svg" width="80" height="25">
 <img src="https://github.com/sagemath/artwork/blob/master/sage-logo-2018.svg" width="80" height="25"> 
